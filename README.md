@@ -20,8 +20,10 @@
     <img aling= "center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img aling= "center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img aling= "center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img aling= "center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img aling= "center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img aling= "center" alt="dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white"/>
+    <img aling= "center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff"/>
+    <img aling= "center" alt="spring" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff"/>
+    <img aling= "center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
 </div><br><br>
 
-Apaixonado pela tecnologia, busco a cada dia melhorar um pouco.
+ESTUDANTE, ENTUSIASTA EM TECNOLOGIA E INOVAÇÃO, BUSCO CADA MELHORAR CADA VEZ MAIS E DESENVOLVER SOLUÇÕES PARA PROBLEMAS REAIS!
