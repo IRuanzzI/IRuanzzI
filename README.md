@@ -40,8 +40,6 @@
 </p>
 
 ## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iruanzzi&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iruanzzi&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iruanzzi&theme=dracula" />
+</p>
