@@ -41,4 +41,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iruanzzi&theme=dracula" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iruanzzi&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iruanzzi&layout=compact&langs_count=7&theme=dracula"/>
+</div>
