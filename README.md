@@ -1,29 +1,47 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Ruan Pablo! 👋</h1>
+<h3 align="center">Estudante, entusiasta em tecnologia e inovação.</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ruan-pablo-cdo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/iruanzzi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:rp824194@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
+---
 
-### Olá! Eu sou Ruan Pablo 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-pablo-cdo/)
+## 👨‍💻 Sobre Mim
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iruanzzi?utm_source=qr&igsh=MXhxMHJtc2xmNG5taw==)
+- 🚀 Busco evoluir constantemente e desenvolver soluções eficientes para **problemas reais**.
+- 💻 Focado atualmente no ecossistema **Java/Spring** e no desenvolvimento Mobile com **Flutter/Android**.
+- 📚 Sempre aberto a aprender novas tecnologias, enfrentar desafios e colaborar em projetos inovadores.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rp824194@gmail.com)
+## 🛠️ Tecnologias e Ferramentas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iruanzzi&show_icons=true&theme=dracula)
+**Mobile & Frontend:**
+<p>
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iruanzzi&layout=compact)
+**Backend:**
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</p>
 
-## Tecnologias que eu uso no meu dia-a-dia:
+## 📊 Estatísticas do GitHub
 
-<div style = "display: inline_block"><br/>
-    <img aling= "center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img aling= "center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img aling= "center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img aling= "center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img aling= "center" alt="dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white"/>
-    <img aling= "center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff"/>
-    <img aling= "center" alt="spring" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff"/>
-    <img aling= "center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"/>
-</div><br><br>
-
-ESTUDANTE, ENTUSIASTA EM TECNOLOGIA E INOVAÇÃO, BUSCO CADA MELHORAR CADA VEZ MAIS E DESENVOLVER SOLUÇÕES PARA PROBLEMAS REAIS!
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iruanzzi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iruanzzi&layout=compact&langs_count=7&theme=dracula"/>
+</div>
