@@ -1,45 +1,70 @@
-<h1 align="center">Olá, eu sou o Ruan Pablo! 👋</h1>
-<h3 align="center">Estudante, entusiasta em tecnologia e inovação.</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ruan-pablo-cdo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/iruanzzi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:rp824194@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+# Olá, eu sou Ruan Pablo 👋
 
----
+### Desenvolvedor em formação com foco em Backend Java e Desenvolvimento Mobile
 
-## 👨‍💻 Sobre Mim
+Construo soluções com foco em clareza, evolução contínua e impacto real.
 
-- 🚀 Busco evoluir constantemente e desenvolver soluções eficientes para **problemas reais**.
-- 💻 Focado atualmente no ecossistema **Java/Spring** e no desenvolvimento Mobile com **Flutter/Android**.
-- 📚 Sempre aberto a aprender novas tecnologias, enfrentar desafios e colaborar em projetos inovadores.
-
-## 🛠️ Tecnologias e Ferramentas
-
-**Mobile & Frontend:**
 <p>
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/ruan-pablo-cdo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:rp824194@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+  <a href="https://www.instagram.com/iruanzzi">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
-**Backend:**
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-</p>
+</div>
 
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iruanzzi&theme=dracula" />
-</p>
+## Sobre mim
+
+Sou estudante e entusiasta de tecnologia, interessado em transformar problemas reais em produtos simples, eficientes e sustentáveis.
+
+Atualmente, concentro meus estudos e projetos em:
+
+- **Backend:** Java e Spring Boot
+- **Mobile:** Flutter, Dart e Android
+- **Web:** JavaScript, HTML e CSS
+
+Gosto de aprender na prática, entender o porquê das decisões técnicas e evoluir cada solução com atenção à qualidade do código e à experiência de quem usa.
+
+## Stack
+
+<div align="center">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring" alt="Java e Spring Boot">
+
+### Mobile
+
+<img src="https://skillicons.dev/icons?i=dart,flutter,android" alt="Dart, Flutter e Android">
+
+### Web
+
+<img src="https://skillicons.dev/icons?i=javascript,html,css" alt="JavaScript, HTML e CSS">
+
+</div>
+
+## Como penso engenharia
+
+- **Clareza antes de complexidade:** soluções fáceis de entender são mais fáceis de manter.
+- **Aprendizado contínuo:** cada projeto é uma oportunidade de aprofundar fundamentos.
+- **Problemas reais como prioridade:** tecnologia deve gerar valor, não apenas demonstrar conhecimento.
+- **Evolução incremental:** boas soluções são construídas, observadas e aprimoradas continuamente.
+
+## GitHub em números
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iruanzzi&theme=github_dark" alt="Resumo das contribuições de Ruan Pablo">
+</div>
+
+<div align="center">
+
+  <sub>Aberto a conexões, colaboração e novos desafios.</sub>
+
+</div>
